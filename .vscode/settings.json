@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+  "typescript.tsserver.log": "off",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "cSpell.words": ["Laravel", "PKCE", "Rubocop", "vercel"]
+}
